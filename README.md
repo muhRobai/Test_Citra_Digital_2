@@ -10,8 +10,8 @@
 4. `go run Route.go`
 
 ## End Point
-1. `localhost:8080/sort` with body input {"text"} for sort
-2. `localhost:8080/sum` with bodt input {"text"} for sum
+1. `localhost:8080/sort` with body input {"text"} and method {"POST"} for sort
+2. `localhost:8080/sum` with bodt input {"text"} and method {"POST"} for sum
 
 ## For testing unit
 1. `cd sum || cd sort`
