@@ -14,6 +14,7 @@
 2. `localhost:8080/sum` with bodt input {"text"} and method {"POST"} for sum
 
 ## For testing unit
-1. `cd sum || cd sort`
-2. `go test -v`
+1. `cd Controller`
+2. `cd sum || cd sort`
+3. `go test -v`
  
